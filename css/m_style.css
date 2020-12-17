@@ -1,0 +1,31 @@
+*{margin: 0;}
+
+html{font-size: 10px;}
+body{font-size: 1rem;}
+a{text-decoration: none;color: #ffffff;}
+
+header{height: 7.2rem;text-align: center;background-color: #A0A1A6;}
+header > .logo{padding-top: 2rem;}
+
+section > .keyvisual{background-color: #CBCBCB; text-align: center; height: 29rem;}
+
+
+
+section > .profile{background-color: #CBCBCB;height:83.7rem;}
+
+.pf_0,.pf_01, .pf_02, .pf_03, .pf_04{text-align: center;}
+
+section > .profile > .pf_01{padding-top: 3.7rem;}
+section > .profile > .pf_02, .pf_03, .pf_04{margin-top: 3.7rem;}
+
+.pf1, .pf2, .pf3, .pf4, .pf5{text-align: center;}
+
+section > .work{background-color: #CBCBCB;height: 401rem; text-align: center;}
+section > .work > .pf > img{margin-top: 3rem;}
+section > .work > .pf1 > img{margin-top:3rem;}
+section > .work > .pf2 > img{margin-top: 3rem;}
+section > .work > .pf3 > img{margin-top: 3rem;}
+section > .work > .pf4 > img{margin-top: 3rem;}
+
+footer {background-color:#A5A09A; height:3rem;text-align: center;}
+footer > img{margin-top: 1rem;}
